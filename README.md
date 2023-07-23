@@ -9,7 +9,7 @@ Copy the files in Plugin to the Plugin file in the TensorRT source library for c
 
 ![model_architecture](image/explain.png)
 
-Make model modifications to ONNX before transitioning to TRT.(https://github.com/ReggieBird/Correlation_and_GridSamper_Plugin_TensorRT/tree/main/ModifyOnnx).
+Make model modifications to ONNX before transitioning to TRT.
 
 在ONNX转TRT之前先对ONNX进行模型修改.(https://github.com/ReggieBird/Correlation_and_GridSamper_Plugin_TensorRT/tree/main/ModifyOnnx).
 
