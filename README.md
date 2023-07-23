@@ -8,3 +8,5 @@ Copy the files in Plugin to the Plugin file in the TensorRT source library for c
 将Plugin中的文件复制到TensorRT源码库的Plugin文件中编译，将build中生成的文件复制到TensorRT推理库中的lib文件夹内进行替换.
 
 ![model_architecture](image/explain.png)
+
+Reference and modification from (https://github.com/ltkong218/FastFlowNet).
